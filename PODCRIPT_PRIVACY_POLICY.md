@@ -1,0 +1,62 @@
+# Privacy Policy for Podcript
+
+**Last updated:** 06/12/2024
+
+## Introduction
+
+Thank you for choosing Podcript ("the App"). This Privacy Policy describes how your information is collected, used, and disclosed by the individual developer, Yusif Mammadov, when you use Podcript. By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with any part of this policy, please discontinue using the App.
+
+## 1. Information We Collect
+
+### a. Personal Information:
+The App may request certain personally identifiable information (such as your name, email address, or user credentials) if you choose to register for an account, subscribe to newsletters, or use other App features that require authentication. Providing this information is voluntary, and you may use certain features without revealing your identity.
+
+### b. Usage Data:
+When you use the App, we may automatically collect information about your device and how you interact with the App, including but not limited to the type of device you use, your device's unique ID, the IP address of your device, your operating system, app performance data, and other diagnostic data.
+
+### c. Cookies and Similar Technologies:
+The App may use cookies or similar tracking technologies to enhance user experience, remember your preferences, and track App usage. You can instruct your device to refuse all cookies or indicate when a cookie is being sent. However, if you do not accept cookies, certain features of the App may not function properly.
+
+## 2. How We Use Your Information
+
+We use the collected data for various purposes, including:
+- To provide, maintain, and improve the App's functionality and user experience.
+- To personalize your experience and deliver content relevant to your interests.
+- To communicate with you about updates, new features, or promotional materials (if you have opted-in to receive such communications).
+- To monitor usage and diagnose technical issues.
+- To ensure the security and integrity of the App.
+
+## 3. How We Share Your Information
+
+We respect your privacy and do not sell or rent your personal information to third parties. We may share your information in the following scenarios:
+- **Service Providers:** We may engage trusted third-party companies and individuals to facilitate our App, provide services on our behalf, perform App-related services, or assist us in analyzing how the App is used.
+- **Legal Requirements:** We may disclose your personal information if required by law, subpoena, or other legal process, or if we believe such action is necessary to comply with legal obligations, protect the rights or property of Yusif Mammadov, or prevent wrongdoing.
+
+## 4. Security of Your Information
+
+We value your trust and strive to protect your personal information. We use commercially reasonable measures to secure your data against unauthorized access, disclosure, alteration, or destruction. However, please remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and absolute security cannot be guaranteed.
+
+## 5. Children's Privacy
+
+Podcript is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe your child has provided us with personal information, please contact us immediately so that we may take steps to delete such information.
+
+## 6. International Transfers
+
+Your information may be processed, stored, and transferred in countries other than your own, where data protection laws may differ. By using the App, you consent to the transfer of your information to countries outside of your country of residence.
+
+## 7. Your Rights and Choices
+
+You may have certain rights under applicable data protection laws, including the right to access, correct, or delete your personal information. To exercise these rights, please contact us using the information provided below. You may also opt out of certain communications at any time by following the unsubscribe link in any promotional email or contacting us directly.
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App and updating the "Last updated" date at the top. Your continued use of the App after any modifications to the Privacy Policy indicates your acceptance of those changes.
+
+## 9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or the information we hold about you, please contact:
+
+**Developer:** Yusif Mammadov  
+**Email:** contact@yusifmammadov.com
+
+By using Podcript, you acknowledge that you have read this Privacy Policy, understood it, and agreed to be bound by its terms.
